@@ -1,0 +1,29 @@
+
+.skills{
+    text-align: center; 
+}
+.skills>div{
+    box-sizing: border-box;
+    margin: auto;
+    width: 60%;
+    padding: 30px;
+    display: grid;
+    gap: 30px;
+    grid-template-rows: repeat(2,auto);
+    grid-template-columns: repeat(5,1fr);
+}
+.skills>div>div{
+box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+   padding-top:20px;
+   border-radius: 30px;
+   border: 3px solid transparent;
+ }
+ .skills>div>div:hover{
+    background-color: whitesmoke;
+    border: 3px solid;
+    transition: background-color 1.5s;
+    transition: border 1s;
+ }
+.skills>div img{
+   width:80px;
+}

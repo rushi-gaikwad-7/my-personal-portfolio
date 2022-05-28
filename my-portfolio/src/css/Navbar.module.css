@@ -1,0 +1,27 @@
+.Navbar{
+    display: flex;
+    justify-content: right;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.Navbar>div{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-right:3%;
+
+}
+.tag{
+    box-sizing: border-box;
+    padding: 8px 15px;
+    border-bottom: 3px solid transparent;
+    font-weight: bolder;
+}
+.tag:hover{
+    padding: 8px 20px;
+    transition:  padding 0.5s;
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 15px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
