@@ -7,8 +7,9 @@
 }
 .about >div{
     text-align: center;
-    width: 45%;
+    width: 50%;
     margin: auto;
+    font-size: 16px;
     
 }
 .about>div:last-child{
