@@ -1,14 +1,14 @@
 .Project>h1 {
     text-align: center;
 }
-
 .Project img {
     width: 80%;
 }
-
 .Project>div {
     width: 100%;
     display: flex;
+    flex-wrap: wrap;
+    gap:20px;
     justify-content: space-between;
     box-sizing: border-box;
     padding: 0px 100px;
