@@ -1,9 +1,11 @@
 .footer{
+    width: 100%;
     text-align: center;
     padding-top: 30px;
     padding-bottom: 10px;
     background-color: whitesmoke;
     margin-top: 20PX;
+   
 }
 .footer>div{
     display: flex;
@@ -15,7 +17,6 @@
     margin-top: 10px;
 }
 .footer>div img{
-  
     width: 30px;
     margin-left: 30px;
 

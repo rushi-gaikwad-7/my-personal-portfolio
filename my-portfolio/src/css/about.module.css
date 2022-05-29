@@ -1,7 +1,9 @@
 .about{
     text-align: center;
-    background-color: whitesmoke;
     padding: 50px;
+}
+.about h1+img{
+    width: 50%;
 }
 .about >div{
     text-align: center;
@@ -15,7 +17,7 @@
     align-items: center;
     justify-content: space-between;
 }
-.about>div img{
+.about>div>div img{
     width: 20px;
     margin-right: 10px;
 }

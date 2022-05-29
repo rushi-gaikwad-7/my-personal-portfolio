@@ -5,6 +5,7 @@ export const About = () => {
     <div className={style.about}>
       <div>
         <h1>About</h1>
+        <img src="https://cdn-icons.flaticon.com/png/512/3242/premium/3242244.png?token=exp=1653804222~hmac=ca3830d2e16780e5f007d2e06818c391" alt="" />
         <p>
           Passion-driven learner and a web developer with the ability to write
           clean, reusable, optimized code.As a developer, I can learn quickly,
