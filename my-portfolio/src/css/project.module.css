@@ -1,4 +1,67 @@
-.Project{
-
+.Project>h1 {
     text-align: center;
+}
+
+.Project img {
+    width: 80%;
+}
+
+.Project>div {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: 0px 100px;
+}
+
+.Project>div>div {
+    width: 45%;
+    margin: auto;
+    text-align: center;
+    padding: 20px 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.link {
+    margin: auto;
+    margin-top: 20px;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+.link a {
+    text-decoration: none;
+    color: black;
+}
+
+.tools {
+    width: 50%;
+    margin: auto;
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.tools img {
+    width: 60px;
+}
+.tag{
+    background: lightblue;
+    border-radius: 15px;
+    box-sizing: border-box;
+    padding: 8px 15px;
+    border-bottom: 3px solid transparent;
+    font-weight: bolder;
+}
+.tag:hover{
+    padding: 8px 20px;
+    transition:  padding 0.5s;
+    background-color: whitesmoke;
+    color: black;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
 }
