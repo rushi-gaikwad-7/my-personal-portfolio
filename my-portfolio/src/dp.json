@@ -1,24 +1,24 @@
 {
   "project":[{
-      "title":"Clone of Udemy",
-      "img":[""],
-      "liveLink":"",
-      "gitLink":"",
-      "about":"Clone of E-commerce Website (Myntra).",
+      "title":"Clone of Myntra",
+      "img":["https://storage.cloudconvert.com/tasks/d7f564a9-3d92-49ab-8479-850594a89814/2022-05-28%20%282%29.jpg?AWSAccessKeyId=cloudconvert-production&Expires=1653893477&Signature=S1l2Z7U0XUJtMLi7PY8Dy%2BvqGLk%3D&response-content-disposition=inline%3B%20filename%3D%222022-05-28%20%282%29.jpg%22&response-content-type=image%2Fjpeg","https://storage.cloudconvert.com/tasks/8c7c8670-02cf-4e49-aa0d-cb193e96026c/2022-05-29.jpg?AWSAccessKeyId=cloudconvert-production&Expires=1653902302&Signature=hrzYUw5dTKJBqr5d%2BQbj1iMVeis%3D&response-content-disposition=inline%3B%20filename%3D%222022-05-29.jpg%22&response-content-type=image%2Fjpeg","https://storage.cloudconvert.com/tasks/5be7c0c2-64a8-4539-b72a-c9671bd16b7a/2022-05-29%20%281%29.jpg?AWSAccessKeyId=cloudconvert-production&Expires=1653902232&Signature=hH5CjrdjxsGfjNBfmES9uc8bsbM%3D&response-content-disposition=inline%3B%20filename%3D%222022-05-29%20%281%29.jpg%22&response-content-type=image%2Fjpeg"],
+      "liveLink":"https://effulgent-duckanoo-a89b0f.netlify.app",
+      "gitLink":"https://github.com/rushig777/myntra",
+      "about":"Myntra is a major Indian fashion e-commerce company headquartered in Bengaluru, Karnataka, India.",
       "tool":" HTML | CSS | JavaScript "
   },{
     "title":"Clone of Udemy",
-    "img":[""],
-    "liveLink":"",
-    "gitLink":"",
-    "about":"Clone of E-commerce Website (Myntra).",
+    "img":["https://storage.cloudconvert.com/tasks/1e273ed4-cd89-41f5-8d7d-7ae048dd6afe/2022-05-28.jpg?AWSAccessKeyId=cloudconvert-production&Expires=1653895669&Signature=xSCnfue7YlcpU8hMHA4j5TwS9HE%3D&response-content-disposition=inline%3B%20filename%3D%222022-05-28.jpg%22&response-content-type=image%2Fjpeg","https://storage.cloudconvert.com/tasks/ab47ec7f-2e82-4c73-8790-edec35a24fc2/2022-05-29%20%283%29.jpg?AWSAccessKeyId=cloudconvert-production&Expires=1653902399&Signature=lWaQNnwLldq3h6B6r5qejRrtQ4A%3D&response-content-disposition=inline%3B%20filename%3D%222022-05-29%20%283%29.jpg%22&response-content-type=image%2Fjpeg","https://storage.cloudconvert.com/tasks/7b86c915-d4ff-49b3-90b7-fde8822373ec/2022-05-29%20%284%29.jpg?AWSAccessKeyId=cloudconvert-production&Expires=1653902415&Signature=8ExzW6xkbmlnmQbqg4XDBGfniFo%3D&response-content-disposition=inline%3B%20filename%3D%222022-05-29%20%284%29.jpg%22&response-content-type=image%2Fjpeg"],
+    "liveLink":"https://verdant-kitten-680f9d.netlify.app/pages/homepage.html",
+    "gitLink":"https://github.com/rushig777/Udemy-clone",
+    "about":"Udemy, Inc. is a for-profit massive open online course provider aimed at professional adults and students.",
     "tool":" HTML | CSS | JavaScript "
 },{
     "title":"Clone of Udemy",
-    "img":[""],
-    "liveLink":"",
-    "gitLink":"",
-    "about":"Clone of E-commerce Website (Myntra).",
-    "tool":" HTML | CSS | JavaScript "
+    "img":["https://storage.cloudconvert.com/tasks/6983b7ad-e515-414a-8994-efb49b324466/2022-05-29%20%285%29.jpg?AWSAccessKeyId=cloudconvert-production&Expires=1653902782&Signature=QuQZObIKoMv9JbGsLlzl202rXxw%3D&response-content-disposition=inline%3B%20filename%3D%222022-05-29%20%285%29.jpg%22&response-content-type=image%2Fjpeg","https://storage.cloudconvert.com/tasks/8f933aa5-36bb-41e3-a0f9-e69913576ab2/2022-05-29%20%288%29.jpg?AWSAccessKeyId=cloudconvert-production&Expires=1653902822&Signature=sIGShFdCR%2Bn9NZeAe2NyWKGbbTs%3D&response-content-disposition=inline%3B%20filename%3D%222022-05-29%20%288%29.jpg%22&response-content-type=image%2Fjpeg","https://storage.cloudconvert.com/tasks/9585ef88-0ab5-402d-9dbe-cfa5d8ff0f99/2022-05-29%20%287%29.jpg?AWSAccessKeyId=cloudconvert-production&Expires=1653902845&Signature=O%2F%2BEg4nFnG6vbm7pdYdhYDXNz8E%3D&response-content-disposition=inline%3B%20filename%3D%222022-05-29%20%287%29.jpg%22&response-content-type=image%2Fjpeg"],
+    "liveLink":"https://singular-kleicha-5eef4a.netlify.app/",
+    "gitLink":"https://github.com/rushig777/bathandbodyworks-clone",
+    "about":"Bath & Body Works, LLC. is an American retail store chain which sells soaps, lotions, fragrances, and candles.",
+    "tool":" HTML | CSS | JavaScript | React | Redux "
 }]
 }

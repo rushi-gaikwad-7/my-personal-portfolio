@@ -6,6 +6,7 @@ export const Skills = () => {
   return (
     <div className={styles.skills}>
       <h1>Skills & Interests</h1>
+      <div>
       <div >{
         skills.map((el,i)=>{
           return <div key={i}>
@@ -13,6 +14,7 @@ export const Skills = () => {
             <p>{el.sName}</p>
           </div>
         })}</div>
+        </div>
     </div>
   );
 };

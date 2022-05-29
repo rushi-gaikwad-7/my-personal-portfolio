@@ -9,20 +9,22 @@
     display: flex;
     flex-wrap: wrap;
     gap:20px;
+    margin: auto;
     justify-content: space-between;
     box-sizing: border-box;
-    padding: 0px 100px;
+   
 }
 
 .Project>div>div {
-    width: 45%;
+    background-color:oldlace;
+    width: 40%;
     margin: auto;
     text-align: center;
-    padding: 20px 10px;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 }
 
 .link {
+
     margin: auto;
     margin-top: 20px;
     width: 40%;
@@ -30,16 +32,12 @@
     align-items: center;
     justify-content: space-between;
 }
-
-
-
 .link a {
     text-decoration: none;
     color: black;
 }
-
 .tools {
-    width: 50%;
+    width: 80%;
     margin: auto;
     margin-top: 30px;
     display: flex;
