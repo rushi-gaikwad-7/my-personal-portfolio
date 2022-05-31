@@ -7,7 +7,7 @@ export const Project = () => {
   
  let data=project.project;
   return (
-    <div className={styles.Project}>
+    <div className={styles.Project} id="project">
       <h1>Projects</h1>
       <div>
       {

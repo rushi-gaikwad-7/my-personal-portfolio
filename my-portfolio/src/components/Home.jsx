@@ -2,9 +2,10 @@ import React from "react";
 import { Link } from "react-router-dom";
 import img from "./userimg.png";
 import styles from "../css/Home.module.css";
+
 export const Home = () => {
   return (
-    <div className={styles.Home}>
+    <div className={styles.Home} id="home">
       <div>
         <div>
           <h1>

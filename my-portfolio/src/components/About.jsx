@@ -2,7 +2,7 @@ import React from "react";
 import style from "../css/about.module.css";
 export const About = () => {
   return (
-    <div className={style.about}>
+    <div className={style.about} id="about">
       <div>
         <h1>About</h1>
         <img src="https://cdn-icons.flaticon.com/png/512/3242/premium/3242244.png?token=exp=1653804222~hmac=ca3830d2e16780e5f007d2e06818c391" alt="" />

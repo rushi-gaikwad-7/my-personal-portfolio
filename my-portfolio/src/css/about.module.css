@@ -1,6 +1,7 @@
 .about{
     text-align: center;
     padding: 50px;
+    background-color: whitesmoke;
 }
 .about h1+img{
     width: 50%;
