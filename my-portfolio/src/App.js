@@ -5,7 +5,6 @@ import { Footer } from './components/Footer';
 import React from 'react'
 import {Routes, Route} from "react-router-dom"
 import ResumeNew from './components/Resume'
-import { MainRoutes } from './Routes/MainRoutes';
 import { Homepage } from './pages/Homepage';
 
 function App() {
