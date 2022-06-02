@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import img from "./userimg.png";
+import img from "./img.png";
 import styles from "../css/Home.module.css";
 import { WindupChildren } from "windups";
 
