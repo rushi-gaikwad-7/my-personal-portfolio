@@ -5,7 +5,7 @@ import { Document, Page, pdfjs } from "react-pdf";
 import { AiOutlineDownload } from "react-icons/ai"
 import Particle from "./Partical";
 import styles  from "../css/resume.module.css";
-import pdf from "./myresume.pdf"
+import pdf from "./cv.pdf"
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 function ResumeNew() {
     const resumeLink=pdf;
