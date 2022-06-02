@@ -9,9 +9,10 @@
 }
 .about >div{
     text-align: center;
-    width: 50%;
+    width: 60%;
+    line-height: 1.5;
     margin: auto;
-    font-size: 16 px;
+    font-size: 16px;
     
 }
 .about>div:last-child{

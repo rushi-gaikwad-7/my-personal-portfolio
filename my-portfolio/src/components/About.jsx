@@ -5,12 +5,11 @@ export const About = () => {
     <div className={style.about} id="about">
       <div>
         <h1>About</h1>
-        <img src="https://cdn-icons.flaticon.com/png/512/3242/premium/3242244.png?token=exp=1653804222~hmac=ca3830d2e16780e5f007d2e06818c391" alt="" />
+        <img src="https://i.ibb.co/0sTgd6R/3242244.png" alt="" />
         <p>
           Passion-driven learner and a web developer with the ability to write
-          clean, reusable, optimized code.As a developer, I can learn quickly,
-          adapt well, and solve complex problems. Looking forward to joining a
-          progressive and challenging work environment
+          clean, reusable, optimized code.As a developer, I can learn quickly, adapt well, and solve complex problems. I believe I spark joy in coding and love to dig into different problems enabling me to solve them with modern technology. I focus on key results and build effective solutions. Looking forward to joining a
+          progressive and challenging work environment.
         </p>
       </div>
       <div>
