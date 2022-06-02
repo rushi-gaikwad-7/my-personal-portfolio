@@ -2,12 +2,14 @@ import React from "react";
 import { Link } from "react-router-dom";
 import img from "./userimg.png";
 import styles from "../css/Home.module.css";
+import { WindupChildren } from "windups";
 
 export const Home = () => {
   return (
     <div className={styles.Home} id="home">
       <div>
         <div>
+          
           <h1>
             Hey..,{" "}
             <img
@@ -16,11 +18,14 @@ export const Home = () => {
             />
             <br /> I am Rushikesh Gaikwad
           </h1>
+          
         </div>
+        <WindupChildren>
         <p>
          <b>Full Stack Web Developer</b><br /> who focuses on writing
           clean and user-friendly web-applications
         </p>
+        </WindupChildren>
         <div>
           <Link className={styles.resume} to={"/resume"}>
             Resume

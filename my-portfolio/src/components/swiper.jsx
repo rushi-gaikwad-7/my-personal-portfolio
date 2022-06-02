@@ -12,8 +12,8 @@ export const Slideshow = ({data}) => {
      {data.map((img,i)=>{
        return <div key={i}>
        <img src={img} alt='' />
-   </div>
-     })
+         </div>
+     }) 
     }
   </Carousel>
       
