@@ -1,18 +1,21 @@
 import React from 'react';
-import { Slide } from 'react-slideshow-image';
-import 'react-slideshow-image/dist/styles.css'
+
+import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
+import { Carousel } from 'react-responsive-carousel';
+
 
 
 export const Slideshow = ({data}) => {
     return (
-      <div className="slide-container">
-        <Slide>
-         {data.map((slideImage, index)=> (
-            <div className="each-slide" key={index}>
-              <img src={slideImage} alt="" />
-            </div>
-          ))} 
-        </Slide>
-      </div>
+    
+      <Carousel>
+     {data.map((img,i)=>{
+       return <div key={i}>
+       <img src={img} alt='' />
+   </div>
+     })
+    }
+  </Carousel>
+      
     )
 }
