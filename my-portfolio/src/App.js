@@ -10,14 +10,14 @@ import { Homepage } from './pages/Homepage';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+     
        <Navbar/>
        <Routes>
             <Route path="/" element={<Homepage/>}></Route>
             <Route path='/resume' element={<ResumeNew/>}></Route>
         </Routes>
        <Footer/>
-      </header>
+     
     </div>
   );
 }
