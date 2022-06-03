@@ -19,5 +19,11 @@
 .footer>div img{
     width: 30px;
     margin-left: 30px;
-
+}
+@media (min-width: 350px) and (max-width: 750px) {
+    .footer{
+        width: 800px;
+        padding: 50px;
+        font-size: 14px;
+    }
 }

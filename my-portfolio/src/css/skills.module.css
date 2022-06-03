@@ -29,3 +29,9 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 .skills>div img{
    width:80px;
 }
+@media (min-width: 350px) and (max-width: 750px) {
+   .skills{
+       width: 800px;
+       padding: 50px;
+   }
+ }

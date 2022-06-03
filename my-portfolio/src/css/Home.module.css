@@ -61,10 +61,8 @@
     width: 100%;
 }
 @media (min-width: 350px) and (max-width: 750px) {
-    .App {
-   
-    width: 100%;
-    margin: 0px;
-    height:100%;
+    .Home{
+        width: 800px;
+        padding: 50px;
     }
   }

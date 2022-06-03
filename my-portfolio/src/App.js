@@ -16,7 +16,7 @@ function App() {
             <Route path="/" element={<Homepage/>}></Route>
             <Route path='/resume' element={<ResumeNew/>}></Route>
         </Routes>
-       <Footer/>
+       <Footer/> 
      
     </div>
   );

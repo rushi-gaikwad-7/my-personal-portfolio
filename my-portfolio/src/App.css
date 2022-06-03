@@ -1,17 +1,7 @@
 
 .App{
-  top: 0;
-  left: 0;
-  width: 100%;
-  margin: 0px;
-  height:100vh
+  height: 100vh;
+  width: auto;
 }
-@media (min-width: 350px) and (max-width: 750px) {
-  .App {
- 
-  width: 100%;
-  margin: 0px;
-  height:100%;
-  }
-}
+
 
