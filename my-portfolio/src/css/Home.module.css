@@ -1,5 +1,8 @@
 .Home {
     width: 100%;
+    box-sizing: border-box;
+
+    padding: 0% 5%;
     margin: auto;
     display: flex;
     justify-content: space-between;
