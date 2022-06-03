@@ -34,4 +34,13 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
        width: 800px;
        padding: 50px;
    }
+   .skills>div>div{
+    box-sizing: border-box;
+    width: 80%;
+    margin: auto;
+    display: grid;
+    gap: 30px;
+    grid-template-rows: repeat(2,auto);
+    grid-template-columns: repeat(4,1fr);
+}
  }

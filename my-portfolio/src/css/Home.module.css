@@ -1,7 +1,6 @@
 .Home {
     width: 100%;
     box-sizing: border-box;
-
     padding: 0% 5%;
     margin: auto;
     display: flex;
@@ -67,5 +66,21 @@
     .Home{
         width: 800px;
         padding: 50px;
+    }
+    .Home p>b{
+       
+        font-size: 25px;
+       
+    }
+    .Home>div:first-child {
+        width: 70%;
+        box-sizing: border-box;
+        padding: 50px;
+    }
+    .resume {
+        margin-right: 10px;
+    }
+    .Home>div>div img {
+        margin-left: 10px;
     }
   }
