@@ -16,9 +16,16 @@ function ResumeNew() {
     }, []);
   
     return (
-      <div>
+      <div className={styles.mainDiv}>
         <Container fluid className="resume-section">
           <Particle />
+       
+          <Row className={styles.resume}>
+            <Document file={resumeLink} className="d-flex justify-content-center">
+              <Page pageNumber={1} scale={width > 586 ? 1.2 : 0.6} />
+            </Document>
+          </Row>
+
           <Row className={styles.btn} style={{ justifyContent: "center", position: "relative" }}>
             <Button
               variant="primary"
@@ -29,11 +36,6 @@ function ResumeNew() {
               <AiOutlineDownload />
               &nbsp;Download CV
             </Button>
-          </Row>
-          <Row className={styles.resume}>
-            <Document file={resumeLink} className="d-flex justify-content-center">
-              <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
-            </Document>
           </Row>
         </Container>
       </div>

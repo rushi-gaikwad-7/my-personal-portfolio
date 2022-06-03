@@ -29,7 +29,7 @@
 
 .tag {
     box-sizing: border-box;
-    /* padding: 8px 15px; */
+    padding: 8px 15px;
     border-bottom: 3px solid transparent;
     font-weight: bolder;
 }
