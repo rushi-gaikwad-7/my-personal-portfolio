@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import img from "./img.png";
 import styles from "../css/Home.module.css";
 import { WindupChildren } from "windups";
@@ -27,9 +26,9 @@ export const Home = () => {
         </p>
         </WindupChildren>
         <div>
-          <Link className={styles.resume} to={"/resume"}>
+          <a  target="_blank" rel="noreferrer" className={styles.resume} href={"https://drive.google.com/file/d/1EVQF0bDvXWY4y5AgU_zWsCvmhGG1mP5N/view?usp=sharing"}>
             Resume
-          </Link>
+          </a>
           <a
             rel="noreferrer"
             target={"_blank"}

@@ -5,8 +5,11 @@
     margin: auto;
     display: flex;
     justify-content: space-between;
-    font-family: Bona Nova ,serif;
+    font-family: serif;
     margin-top: 100px;
+}
+.Home h1{
+    font-size: 50px;
 }
 
 .Home p>b{
@@ -19,16 +22,17 @@
 }
 
 .Home>div:first-child {
-    width: 50%;
+    width: 70%;
     box-sizing: border-box;
     padding: 50px;
+    font-family: cursive;
 }
 
 .Home>div>div:first-child {
     width: 100%;
 }
 .Home>div>div {
-    width: 40%;
+    width: 25%;
     display: flex;
     align-items: center;
     justify-content: space-between;
