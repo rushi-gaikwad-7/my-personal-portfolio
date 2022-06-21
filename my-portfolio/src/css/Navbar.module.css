@@ -1,17 +1,13 @@
 .Navbar {
     box-sizing: border-box;
     padding: 2% 0%;
-    position: fixed;
-    top: 0;
-    left: 0;
     width: 100%;
     height: 3em;
     z-index: 1;
     display: flex;
     justify-content: right;
-    background-color: white;
-    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
+
 
 .Navbar>div {
     width: 50%;
@@ -19,7 +15,6 @@
     align-items: center;
     justify-content: space-around;
     margin-right: 3%;
-
 }
 
 .Navbar a {

@@ -5,10 +5,11 @@ import { Carousel } from 'react-responsive-carousel';
 
 
 
+
 export const Slideshow = ({data}) => {
     return (
     
-      <Carousel>
+      <Carousel showThumbs={false} infiniteLoop autoPlay stopOnHover={true} >
      {data.map((img,i)=>{
        return <div key={i}>
        <img src={img} alt='' />

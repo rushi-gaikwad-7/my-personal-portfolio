@@ -3,19 +3,24 @@ import styles from "../css/project.module.css";
 import project from "../dp.json"
 import  { Slideshow } from "./swiper";
 
+
 export const Project = () => {
   
+ 
+
  let data=project.project;
   return (
     <div className={styles.Project} id="project">
       <h1>Projects</h1>
+      
       <div>
+     
       {
         data.map((el,i)=>{
           return<div key={i}>
           <h2>{el.title}</h2>
           <div className={styles.slide}>
-          <Slideshow data={el.img}/>
+          <Slideshow  data={el.img}/>
           </div>
          
           <div className={styles.link}>
@@ -47,7 +52,9 @@ export const Project = () => {
         </div>
         })
       }  
+     
       </div>
+     
     </div>
   );
 };

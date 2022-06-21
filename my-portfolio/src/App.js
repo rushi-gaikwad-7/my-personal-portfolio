@@ -6,17 +6,21 @@ import React from 'react'
 import {Routes, Route} from "react-router-dom"
 import ResumeNew from './components/Resume'
 import { Homepage } from './pages/Homepage';
+import SimpleSlider, { Gallery } from './components/img';
 
 function App() {
+
+
+ 
   return (
     <div className="App">
-     
+
        <Navbar/>
-       <Routes>
+        <Routes>
             <Route path="/" element={<Homepage/>}></Route>
             <Route path='/resume' element={<ResumeNew/>}></Route>
         </Routes>
-       <Footer/> 
+       <Footer/>  
      
     </div>
   );
