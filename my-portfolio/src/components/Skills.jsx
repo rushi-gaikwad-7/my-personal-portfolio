@@ -7,6 +7,7 @@ export const Skills = () => {
     <div className={styles.skills} id="skills">
       <h1>Skills & Interests</h1>
       <div>
+        
       <div >{
         skills.map((el,i)=>{
           return <div key={i}>
