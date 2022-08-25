@@ -28,6 +28,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Screenshots
 
-![Hero Image](https://i.ibb.co/KjLmbfN/portfolio.png)
+![Hero Image](https://i.ibb.co/V919d9K/old-portfolio.png)
 
 
