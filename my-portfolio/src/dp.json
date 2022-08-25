@@ -3,20 +3,21 @@
   "project":[{
       "title":"Clone of Myntra",
       "img":["https://i.ibb.co/Jr8r35c/myntra3.png","https://i.ibb.co/SRJvnBY/myntra1.png","https://i.ibb.co/Np6PDh2/myntra2.png"],
-      "liveLink":"https://effulgent-duckanoo-a89b0f.netlify.app",
-      "gitLink":"https://github.com/rushig777/myntra",
+      "liveLink":"https://clone-of-myntra.netlify.app",
+      "gitLink":"https://github.com/rushig777/myntra-clone",
       "about":"Myntra is a major Indian fashion e-commerce company headquartered in Bengaluru, Karnataka, India.",
       "tool":" HTML | CSS | JavaScript "
   },{
     "title":"Clone of Udemy",
     "img":["https://i.ibb.co/c6B8Bwt/udemy3.png","https://i.ibb.co/bsHstqM/udemy1.png","https://i.ibb.co/p1QHygX/udemy2.png"],
     "gitLink":"https://github.com/rushig777/Udemy-clone",
+    "liveLink":"https://cloneof-udemy.netlify.app",
     "about":"Udemy, Inc. is a for-profit massive open online course provider aimed at professional adults and students.",
     "tool":" HTML | CSS | JavaScript "
 },{
     "title":"Clone of Bath and body works ",
     "img":["https://i.ibb.co/zSRmxFZ/bbd1.png","https://i.ibb.co/dcgntDV/bbd3.png","https://i.ibb.co/tKF3zZF/bbd2.png"],
-    "liveLink":"https://singular-kleicha-5eef4a.netlify.app/",
+    "liveLink":"https://clone-of-bathandbodyworks.netlify.app",
     "gitLink":"https://github.com/rushig777/bathandbodyworks-clone",
     "about":"Bath & Body Works, LLC. is an American retail store chain which sells soaps, lotions, fragrances, and candles.",
     "tool":" HTML | CSS | JavaScript | React | Redux "

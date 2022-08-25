@@ -26,7 +26,7 @@ export const Home = () => {
         </p>
         </WindupChildren>
         <div>
-          <a  target="_blank" rel="noreferrer" className={styles.resume} href={"https://drive.google.com/file/d/1EVQF0bDvXWY4y5AgU_zWsCvmhGG1mP5N/view?usp=sharing"}>
+          <a  target="_blank" rel="noreferrer" className={styles.resume} href={"https://drive.google.com/file/d/1Odd1Ju8MzJ878e0foRm2itH0_H_zVDMy/view?usp=sharing"}>
             Resume
           </a>
           <a
